@@ -1,2 +1,2 @@
-# respositorio
+# repositorio
 ETS
