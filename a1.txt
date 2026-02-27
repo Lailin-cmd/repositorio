@@ -1,7 +1,0 @@
-HEAD
-mi primer archivo en git
-
-mi primer archivo en git
-
-ahora modificado
-29f7ae6 (funcionalidad terminada)
