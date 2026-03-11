@@ -6,3 +6,4 @@ añadimos comentarios
 
 trabajando con ramas tar1
 
+creada rama tar1
