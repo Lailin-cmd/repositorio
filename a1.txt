@@ -8,3 +8,7 @@ trabajando con ramas tar1
  
 
  creada rama tar1 nuevamente
+
+
+
+ creada rama tar2
